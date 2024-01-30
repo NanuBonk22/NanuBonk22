@@ -11,5 +11,4 @@ Im Nanu
 - 💬 Ask me about any unconventional ideas about AI field or machine learning 
 - 📫 How to reach me anerao97@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
--->
+  
