@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**NanuBonk22/NanuBonk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Nanu
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on Projects related to Artificial Intellience & Data Science and Machine Learning 
+- 🌱 I’m currently learning Engineering in Artificial Intelligence & Data Science and in my 3rd year 
+-  👯 I’m looking to collaborate on Projects related to AI & ML
+- 🤔 I’m looking for help with Projects related to AI & ML
+- 💬 Ask me about any unconventional ideas about AI field or machine learning 
+- 📫 How to reach me anerao97@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
 -->
